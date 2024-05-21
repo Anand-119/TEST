@@ -7,7 +7,7 @@
 // #pragma config statements should precede project file includes.
 // Use project enums instead of #define for ON and OFF.
 
-#include <xc.h>
+#include <xc.h>                        //this is a header file
 
 // PIC16F877A Configuration Bit Settings
 // 'C' source line config statements
